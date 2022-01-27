@@ -7,4 +7,4 @@ This project will be composed on 2 main components.
 2- A local machine software that search for arbitrage oportunities and executes a transaction to the contract if it found one.
 
 Goal of the project:
-Acquire all the knowledge needed for solidity coded contracts, main networks, test networks, local networks, brownie, the smart contracts development framework for python, defi Dexes and current apps usage and contracts execution. In order to create a bot that could make Thousands of dollars with 0 collateral or risk
+Acquire all the knowledge needed for solidity coded contracts, main networks, test networks, local networks, the main python smart contracts development framework, defi Dexes and current apps usage and contracts execution. In order to create a bot that could make Thousands of dollars with 0 collateral or risk
